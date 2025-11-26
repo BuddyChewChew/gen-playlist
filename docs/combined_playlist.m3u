@@ -1,208 +1,212 @@
 ﻿#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
-# Playlist Generated: 2025-11-26T01:11:17.945496
+# Playlist Generated: 2025-11-26T02:52:19.661597
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="hustlerhd" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 1",hustlerhd
-https://tmstream.xyz:34443/hls/hustlerhd/playlist.m3u8?e=1764126678&st=Ic6gXTcQ-hnS7h9-WgdfXQ|Referer=https://adult-tv-channels.com/
+https://tmstream.xyz:34443/hls/hustlerhd/playlist.m3u8?e=1764132740&st=Caq16awjiDpN6haGDFS-TQ|Referer=https://adult-tv-channels.com/
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="hustlertv" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 1",hustlertv
-https://tmstream.xyz:34443/hls/hustlertv/playlist.m3u8?e=1764126679&st=WlgkaZBuNtqJS8-zb9Xf_A|Referer=https://adult-tv-channels.com/
+https://tmstream.xyz:34443/hls/hustlertv/playlist.m3u8?e=1764132740&st=Caq16awjiDpN6haGDFS-TQ|Referer=https://adult-tv-channels.com/
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="penthouse" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 1",penthouse
-https://tmstream.xyz:34443/hls/penthouse/playlist.m3u8?e=1764126679&st=WlgkaZBuNtqJS8-zb9Xf_A|Referer=https://adult-tv-channels.com/
+https://tmstream.xyz:34443/hls/penthouse/playlist.m3u8?e=1764132740&st=Caq16awjiDpN6haGDFS-TQ|Referer=https://adult-tv-channels.com/
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="redlight" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 1",redlight
-https://tmstream.xyz:34443/hls/redlight/playlist.m3u8?e=1764126679&st=WlgkaZBuNtqJS8-zb9Xf_A|Referer=https://adult-tv-channels.com/
+https://tmstream.xyz:34443/hls/redlight/playlist.m3u8?e=1764132741&st=oh0vZxtNM8ign_nZ7sVE0A|Referer=https://adult-tv-channels.com/
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="penthousepassion" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 1",penthousepassion
-https://tmstream.xyz:34443/hls/penthousepassion/playlist.m3u8?e=1764126679&st=WlgkaZBuNtqJS8-zb9Xf_A|Referer=https://adult-tv-channels.com/
+https://tmstream.xyz:34443/hls/penthousepassion/playlist.m3u8?e=1764132741&st=oh0vZxtNM8ign_nZ7sVE0A|Referer=https://adult-tv-channels.com/
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="vivid" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 1",vivid
-https://tmstream.xyz:34443/hls/vivid/playlist.m3u8?e=1764126680&st=Clc_eQKe2Hw1z2X3SOhP0g|Referer=https://adult-tv-channels.com/
+https://tmstream.xyz:34443/hls/vivid/playlist.m3u8?e=1764132741&st=oh0vZxtNM8ign_nZ7sVE0A|Referer=https://adult-tv-channels.com/
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="dorcel" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 1",dorcel
-https://tmstream.xyz:34443/hls/dorcel/playlist.m3u8?e=1764126680&st=Clc_eQKe2Hw1z2X3SOhP0g|Referer=https://adult-tv-channels.com/
+https://tmstream.xyz:34443/hls/dorcel/playlist.m3u8?e=1764132741&st=oh0vZxtNM8ign_nZ7sVE0A|Referer=https://adult-tv-channels.com/
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="superone" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 1",superone
-https://tmstream.xyz:34443/hls/superone/playlist.m3u8?e=1764126680&st=Clc_eQKe2Hw1z2X3SOhP0g|Referer=https://adult-tv-channels.com/
+https://tmstream.xyz:34443/hls/superone/playlist.m3u8?e=1764132742&st=EhrLC1dLBF3_w8huar15ww|Referer=https://adult-tv-channels.com/
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="oxax" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 1",oxax
-https://tmstream.xyz:34443/hls/oxax/playlist.m3u8?e=1764126680&st=Clc_eQKe2Hw1z2X3SOhP0g|Referer=https://adult-tv-channels.com/
+https://tmstream.xyz:34443/hls/oxax/playlist.m3u8?e=1764132742&st=EhrLC1dLBF3_w8huar15ww|Referer=https://adult-tv-channels.com/
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="passie" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 1",passie
-https://tmstream.xyz:34443/hls/passie/playlist.m3u8?e=1764126681&st=rewJ-yJZK1yjjJrWteZdCQ|Referer=https://adult-tv-channels.com/
+https://tmstream.xyz:34443/hls/passie/playlist.m3u8?e=1764132742&st=EhrLC1dLBF3_w8huar15ww|Referer=https://adult-tv-channels.com/
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="eroxxx" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 1",eroxxx
-https://tmstream.xyz:34443/hls/eroxxx/playlist.m3u8?e=1764126681&st=rewJ-yJZK1yjjJrWteZdCQ|Referer=https://adult-tv-channels.com/
+https://tmstream.xyz:34443/hls/eroxxx/playlist.m3u8?e=1764132742&st=EhrLC1dLBF3_w8huar15ww|Referer=https://adult-tv-channels.com/
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="playboy" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 1",playboy
-https://tmstream.xyz:34443/hls/playboy/playlist.m3u8?e=1764126681&st=rewJ-yJZK1yjjJrWteZdCQ|Referer=https://adult-tv-channels.com/
+https://tmstream.xyz:34443/hls/playboy/playlist.m3u8?e=1764132743&st=E1fTFu6BQQ_UD8RW9MuznQ|Referer=https://adult-tv-channels.com/
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="pinko" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 1",pinko
-https://tmstream.xyz:34443/hls/pinko/playlist.m3u8?e=1764126681&st=rewJ-yJZK1yjjJrWteZdCQ|Referer=https://adult-tv-channels.com/
+https://tmstream.xyz:34443/hls/pinko/playlist.m3u8?e=1764132743&st=E1fTFu6BQQ_UD8RW9MuznQ|Referer=https://adult-tv-channels.com/
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="extasy" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 1",extasy
-https://tmstream.xyz:34443/hls/extasy/playlist.m3u8?e=1764126682&st=dU__jBx5kdSbfxAGp4Fwng|Referer=https://adult-tv-channels.com/
+https://tmstream.xyz:34443/hls/extasy/playlist.m3u8?e=1764132743&st=E1fTFu6BQQ_UD8RW9MuznQ|Referer=https://adult-tv-channels.com/
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="penthousereality" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 1",penthousereality
-https://tmstream.xyz:34443/hls/penthousereality/playlist.m3u8?e=1764126682&st=dU__jBx5kdSbfxAGp4Fwng|Referer=https://adult-tv-channels.com/
+https://tmstream.xyz:34443/hls/penthousereality/playlist.m3u8?e=1764132743&st=E1fTFu6BQQ_UD8RW9MuznQ|Referer=https://adult-tv-channels.com/
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="kinoxxx" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 1",kinoxxx
-https://tmstream.xyz:34443/hls/kinoxxx/playlist.m3u8?e=1764126682&st=dU__jBx5kdSbfxAGp4Fwng|Referer=https://adult-tv-channels.com/
+https://tmstream.xyz:34443/hls/kinoxxx/playlist.m3u8?e=1764132743&st=E1fTFu6BQQ_UD8RW9MuznQ|Referer=https://adult-tv-channels.com/
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="pinkerotic" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 1",pinkerotic
-https://tmstream.xyz:34443/hls/pinkerotic1/playlist.m3u8?e=1764126682&st=dU__jBx5kdSbfxAGp4Fwng|Referer=https://adult-tv-channels.com/
+https://tmstream.xyz:34443/hls/pinkerotic1/playlist.m3u8?e=1764132744&st=8Qx7qSqAgr7CbPzjJ996kg|Referer=https://adult-tv-channels.com/
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="pinkerotic7" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 1",pinkerotic7
-https://tmstream.xyz:34443/hls/pinkerotic7/playlist.m3u8?e=1764126682&st=dU__jBx5kdSbfxAGp4Fwng|Referer=https://adult-tv-channels.com/
+https://tmstream.xyz:34443/hls/pinkerotic7/playlist.m3u8?e=1764132744&st=8Qx7qSqAgr7CbPzjJ996kg|Referer=https://adult-tv-channels.com/
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="pinkerotic8" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 1",pinkerotic8
-https://tmstream.xyz:34443/hls/pinkerotic8/playlist.m3u8?e=1764126683&st=regdpzRUHMhnUeU37No6_g|Referer=https://adult-tv-channels.com/
+https://tmstream.xyz:34443/hls/pinkerotic8/playlist.m3u8?e=1764132744&st=8Qx7qSqAgr7CbPzjJ996kg|Referer=https://adult-tv-channels.com/
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="evilangel" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 1",evilangel
-https://tmstream.xyz:34443/hls/evilangel/playlist.m3u8?e=1764126683&st=regdpzRUHMhnUeU37No6_g|Referer=https://adult-tv-channels.com/
+https://tmstream.xyz:34443/hls/evilangel/playlist.m3u8?e=1764132745&st=IXV0OKlCccm8vS73lje4iQ|Referer=https://adult-tv-channels.com/
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="private" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 1",private
-https://tmstream.xyz:34443/hls/private/playlist.m3u8?e=1764126683&st=regdpzRUHMhnUeU37No6_g|Referer=https://adult-tv-channels.com/
+https://tmstream.xyz:34443/hls/private/playlist.m3u8?e=1764132745&st=IXV0OKlCccm8vS73lje4iQ|Referer=https://adult-tv-channels.com/
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="meiden" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 1",meiden
-https://tmstream.xyz:34443/hls/meidenvanholland/playlist.m3u8?e=1764126683&st=regdpzRUHMhnUeU37No6_g|Referer=https://adult-tv-channels.com/
+https://tmstream.xyz:34443/hls/meidenvanholland/playlist.m3u8?e=1764132745&st=IXV0OKlCccm8vS73lje4iQ|Referer=https://adult-tv-channels.com/
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="centoxcento" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 1",centoxcento
-https://tmstream.xyz:34443/hls/cento/playlist.m3u8?e=1764126684&st=V22EEBQsXImZFEZyNJqFPw|Referer=https://adult-tv-channels.com/
+https://tmstream.xyz:34443/hls/cento/playlist.m3u8?e=1764132746&st=x1QV1o95YqxZAjL-MPYcFw|Referer=https://adult-tv-channels.com/
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="barelylegal" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 1",barelylegal
-https://tmstream.xyz:34443/hls/barely/playlist.m3u8?e=1764126684&st=V22EEBQsXImZFEZyNJqFPw|Referer=https://adult-tv-channels.com/
+https://tmstream.xyz:34443/hls/barely/playlist.m3u8?e=1764132746&st=x1QV1o95YqxZAjL-MPYcFw|Referer=https://adult-tv-channels.com/
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="venus" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 1",venus
-https://tmstream.xyz:34443/hls/venus/playlist.m3u8?e=1764126684&st=V22EEBQsXImZFEZyNJqFPw|Referer=https://adult-tv-channels.com/
+https://tmstream.xyz:34443/hls/venus/playlist.m3u8?e=1764132746&st=x1QV1o95YqxZAjL-MPYcFw|Referer=https://adult-tv-channels.com/
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="erox" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 1",erox
-http://he11o.akadatel.com/iptv/BK6T26M4XU77RU/6196/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjYvMjAyNSAxOjExOjI1IEFNJmhhc2hfdmFsdWU9WTNsbEROQWh1UGMxdnpZT2xaMGJVdz09JnZhbGlkbWludXRlcz02MA==|Referer=https://adult-tv-channels.com/
+http://he11o.akadatel.com/iptv/BK6T26M4XU77RU/6196/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjYvMjAyNSAyOjUyOjI2IEFNJmhhc2hfdmFsdWU9VFJPL1Z4MWZXeFJ5UGYrb1YzVldWdz09JnZhbGlkbWludXRlcz02MA==|Referer=https://adult-tv-channels.com/
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="passion" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 1",passion
-https://tmstream.xyz:34443/hls/passion/playlist.m3u8?e=1764126685&st=Oz5EcD4D8ijLBmB1Y8PLQw|Referer=https://adult-tv-channels.com/
+https://tmstream.xyz:34443/hls/passion/playlist.m3u8?e=1764132747&st=FLTPRJiJ9XNLv-QKAsx7HQ|Referer=https://adult-tv-channels.com/
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="satisfaction" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 1",satisfaction
-https://w1.btstream.xyz:2053/tv/satisfaction/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjYvMjAyNSAxOjExOjI1IEFNJmhhc2hfdmFsdWU9WTNsbEROQWh1UGMxdnpZT2xaMGJVdz09JnZhbGlkbWludXRlcz02MA==|Referer=https://adult-tv-channels.com/
+https://w1.btstream.xyz:2053/tv/satisfaction/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjYvMjAyNSAyOjUyOjI3IEFNJmhhc2hfdmFsdWU9aC9MazhLWHFDYW1YRkZ4dHNoM1Ztdz09JnZhbGlkbWludXRlcz02MA==|Referer=https://adult-tv-channels.com/
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="jasmin" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 1",jasmin
-http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjYvMjAyNSAxOjExOjI1IEFNJmhhc2hfdmFsdWU9WTNsbEROQWh1UGMxdnpZT2xaMGJVdz09JnZhbGlkbWludXRlcz02MA==|Referer=https://adult-tv-channels.com/
+http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjYvMjAyNSAyOjUyOjI3IEFNJmhhc2hfdmFsdWU9aC9MazhLWHFDYW1YRkZ4dHNoM1Ztdz09JnZhbGlkbWludXRlcz02MA==|Referer=https://adult-tv-channels.com/
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="fap" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 1",fap
-http://cdn.adultiptv.net/brunette.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjYvMjAyNSAxOjExOjI1IEFNJmhhc2hfdmFsdWU9WTNsbEROQWh1UGMxdnpZT2xaMGJVdz09JnZhbGlkbWludXRlcz02MA==|Referer=https://adult-tv-channels.com/
+http://cdn.adultiptv.net/brunette.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjYvMjAyNSAyOjUyOjI3IEFNJmhhc2hfdmFsdWU9aC9MazhLWHFDYW1YRkZ4dHNoM1Ztdz09JnZhbGlkbWludXRlcz02MA==|Referer=https://adult-tv-channels.com/
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="miamitv" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 1",miamitv
-http://sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net/9528/9528_264_live.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjYvMjAyNSAxOjExOjI2IEFNJmhhc2hfdmFsdWU9d0VmRkdVTXhwbGVDWGlNTm1ab1N2QT09JnZhbGlkbWludXRlcz02MA==|Referer=https://adult-tv-channels.com/
+http://sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net/9528/9528_264_live.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjYvMjAyNSAyOjUyOjI4IEFNJmhhc2hfdmFsdWU9bW9BbzFGZXBNSjVHckZPTkxjaDlSdz09JnZhbGlkbWludXRlcz02MA==|Referer=https://adult-tv-channels.com/
+#EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="ExxxoticaTV" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 2",ExxxoticaTV
+https://moonlight.wideiptv.top/ExxxoticaTV/index.fmp4.m3u8?token=42c4a58467035ce52225af1c4278f6be964b3381-11ca62e918d080f7cd07556d3c47c4be-1764136048-1764125248
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="LeoTV" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 2",LeoTV
-https://moonlight.wideiptv.top/LeoTV/index.fmp4.m3u8?token=489e32f021cb06407ee4e30da728041da9995e9b-9edb01ecee67f2647c71fc9d79ecb621-1764129997-1764119197
+https://moonlight.wideiptv.top/LeoTV/index.fmp4.m3u8?token=5cf822282d66db9d488bc5f3bc6bc7315361d29a-0c1ef9b1df16e8e03bb04f58af2b351b-1764136049-1764125249
+#EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="LeoGoldTV" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 2",LeoGoldTV
+https://moonlight.wideiptv.top/LeoGoldTV/index.fmp4.m3u8?token=240f21df0edb11cea2eaf649cab740528bd3648d-25d79e1a789372efca3d8ab328b503c4-1764136050-1764125250
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="EvilAngel" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 2",EvilAngel
-https://moonlight.wideiptv.top/EvilAngel/index.fmp4.m3u8?token=0792312ee381f641bfcec2753239d52820729de7-786ea88ba107c2677cee4aaee2dd8f66-1764130008-1764119208
+https://moonlight.wideiptv.top/EvilAngel/index.fmp4.m3u8?token=c8f43e603c50ed6a70fb1e0ee900f4f25691da11-91614f23a9596da94d2a88efec01064d-1764136051-1764125251
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="VIXEN" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 2",VIXEN
-https://moonlight.wideiptv.top/VIXEN/index.fmp4.m3u8?token=e62016b62581d4b31701e749f28f9383daaac0c6-694b030d3de0ac00b1bd229fd65d37e1-1764130009-1764119209
+https://moonlight.wideiptv.top/VIXEN/index.fmp4.m3u8?token=ae568ffdf33f7f41ecf1832250af480ded1b1a3f-9ee71d7cadbc4562a128e82b401d1c2d-1764136053-1764125253
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="Extasy4K" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 2",Extasy4K
-https://moonlight.wideiptv.top/Extasy4K/index.fmp4.m3u8?token=f77b08a82f0fea1d9899263e8871a61c38bb00e6-dece783a4b0de21c343d71fc6069e707-1764130011-1764119211
+https://moonlight.wideiptv.top/Extasy4K/index.fmp4.m3u8?token=8f4b75d42a482c21106fd2a8e05f7f732101525e-1caf86ae1bac9e57b81a657c87c8f8eb-1764136055-1764125255
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="PinkoClubTV" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 2",PinkoClubTV
-https://moonlight.wideiptv.top/PinkoClubTV/index.fmp4.m3u8?token=38d367416296904bba023cb4f7d7ba8d4e0daf4a-b39519db2c4e0eebf4aec8309019da37-1764130013-1764119213
+https://moonlight.wideiptv.top/PinkoClubTV/index.fmp4.m3u8?token=47d3569c81c5c8af35de69792cde9775b7563ffb-dd83119d129d80d5630f4a556545bb25-1764136056-1764125256
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="BrazzersTVEU" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 2",BrazzersTVEU
-https://moonlight.wideiptv.top/BrazzersTVEU/index.fmp4.m3u8?token=04c0fbb40b61a475d57117fec3c0633ca078b7b7-9185f2f2fa896e0d9bb0a8b505e788c0-1764130013-1764119213
+https://moonlight.wideiptv.top/BrazzersTVEU/index.fmp4.m3u8?token=64b1a684abafba703ef0ab8586c22792c0cc0e26-9db05771957513d5ded7b31f16c6b8e3-1764136058-1764125258
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="HustlerHD" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 2",HustlerHD
-https://moonlight.wideiptv.top/HustlerHD/index.fmp4.m3u8?token=18f3fc19522c87856184bfbd4554253dff8a6a82-f6d537e197a4eed37ba5815abc9f42e9-1764130014-1764119214
+https://moonlight.wideiptv.top/HustlerHD/index.fmp4.m3u8?token=9c5c7c5dae779a665a09ebcc3508e0c837090450-80c71ca68cecad9239b9e5e535ba6edf-1764136059-1764125259
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="RedlightHD" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 2",RedlightHD
-https://moonlight.wideiptv.top/RedlightHD/index.fmp4.m3u8?token=fc4e7c6999c4528b9f6ea4f997625846f658b15e-41bbefbaff60928bbb737260ceba31bd-1764130015-1764119215
+https://moonlight.wideiptv.top/RedlightHD/index.fmp4.m3u8?token=3bb2c26e2e50f0a00287937692ca6b1d70d21357-7acd08464089f62a961f06ba1edb7df2-1764136060-1764125260
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="SecretCircleTV" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 2",SecretCircleTV
-https://moonlight.wideiptv.top/SecretCircleTV/index.fmp4.m3u8?token=5783eeaad2970699db98256f49dac50f2cb01805-bb88c33453b22366c555d61816391d58-1764130016-1764119216
+https://moonlight.wideiptv.top/SecretCircleTV/index.fmp4.m3u8?token=8acd5ec618b0a29218105642e15a72ef5bdb623e-6b19934cd156cf343da6526d8ecb35db-1764136061-1764125261
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="PenthouseGold" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 2",PenthouseGold
-https://moonlight.wideiptv.top/PenthouseGold/index.fmp4.m3u8?token=0de1dd86742ed81100b467a5a429cc0d894efbdf-205f8c155b38d778c5bae934e1e8a0c5-1764130020-1764119220
+https://moonlight.wideiptv.top/PenthouseGold/index.fmp4.m3u8?token=bbd83ca1cc639bcdeaf34be6d293a2676ae8a283-d53c02d8bef220e8f5f07f89c9925ad8-1764136061-1764125261
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="Television-X" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 2",Television-X
-https://moonlight.wideiptv.top/Television-X/index.fmp4.m3u8?token=5c6e3cc348d1fb4087554b704894eb3907f2ef85-8e3464427eea0ffc64954a2e77faa370-1764130021-1764119221
+https://moonlight.wideiptv.top/Television-X/index.fmp4.m3u8?token=26a1c154af4730e09938710fc76d20d3205bad95-02208d3188d418dce886894cc818a4a2-1764136062-1764125262
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="Private" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 2",Private
-https://moonlight.wideiptv.top/Private/index.fmp4.m3u8?token=3e9122fecec8e4e3e96e7a7d5397ab6477bec71a-2cfea0136db36f4087395af286e8b3dd-1764130022-1764119222
+https://moonlight.wideiptv.top/Private/index.fmp4.m3u8?token=8cc08da38863644ffc1bf3810adee43b5599f28b-fb53e8672f1a9298c22768dfb8266efe-1764136063-1764125263
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="HOT-HD" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 2",HOT-HD
-https://moonlight.wideiptv.top/HOT-HD/index.fmp4.m3u8?token=f5abc28787fadc0783c084c32c71e585ea702831-f9683887562c171da832640c934e05a9-1764130023-1764119223
+https://moonlight.wideiptv.top/HOT-HD/index.fmp4.m3u8?token=131ea926b5387caaa2671f6298990eb33cddf372-f923a722099d0143fe3dde7cdb0decb6-1764136064-1764125264
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="BODYSEX" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 2",BODYSEX
-https://moonlight.wideiptv.top/BODYSEX/index.fmp4.m3u8?token=a1ad0c68358db9e3c2d1148262ed1955b9bb8537-1a3a03340142eee3a4e784adc76e1a04-1764130024-1764119224
+https://moonlight.wideiptv.top/BODYSEX/index.fmp4.m3u8?token=3562b3c29897cd18d5dd2b84114da51a318d2ddb-eeb42b697f251e06faf614aef85bfbe8-1764136065-1764125265
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="DorcelTV" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 2",DorcelTV
-https://moonlight.wideiptv.top/DorcelTV/index.fmp4.m3u8?token=653e3718aea13748b8b6963486bbdc3e2bf0ec01-cb29187082eb399542d1f3df20ea2104-1764130025-1764119225
+https://moonlight.wideiptv.top/DorcelTV/index.fmp4.m3u8?token=5597a54e9beb460c3e57d65aee8f5eb2bd3d0c1f-77db1e519e841b00a80bec2fe4a31c31-1764136066-1764125266
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="TransAngels" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 2",TransAngels
-https://moonlight.wideiptv.top/TransAngels/index.fmp4.m3u8?token=01a2a815614d7c25d23e21c11a679b12df8ddff4-8bdcf18ac0bcef357793aa8c8572bf21-1764130026-1764119226
+https://moonlight.wideiptv.top/TransAngels/index.fmp4.m3u8?token=3bf580fe0ce824810f73847d8271e08eb429c85c-1e378df5b937d2aad6bb6fc2e8a10309-1764136067-1764125267
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="SuperONE" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 2",SuperONE
-https://moonlight.wideiptv.top/SuperONE/index.fmp4.m3u8?token=2610f0b24dde2d3ff866e4c04ea5cc73d9087e74-0ab6db48ed79c14dabceb279cc0480df-1764130026-1764119226
+https://moonlight.wideiptv.top/SuperONE/index.fmp4.m3u8?token=95430a6ff7da6a0cfdf529443018be5567ee87da-ec7dd235b826f687e0b319cdb6d18af1-1764136068-1764125268
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="SextremeTV" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 2",SextremeTV
-https://moonlight.wideiptv.top/SextremeTV/index.fmp4.m3u8?token=342785064ac83468c9c56a7ab55146c96c261c5e-b3f849226741f43c36ab063f65742f99-1764130028-1764119228
+https://moonlight.wideiptv.top/SextremeTV/index.fmp4.m3u8?token=7034aa7889ef40727b28f7c7d2cbdd7c4999b62e-b6040dbe35f5e53f4c62a2cacc5f0005-1764136068-1764125268
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="SeXation" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 2",SeXation
-https://moonlight.wideiptv.top/SeXation/index.fmp4.m3u8?token=662a60b307a6d8591057e75282d17a800e63c6c5-fb4d57c7a431da6ba4ce4e7d2e32184b-1764130029-1764119229
+https://moonlight.wideiptv.top/SeXation/index.fmp4.m3u8?token=e49d4f64673af9efa5ffa3f0e191e9e6bc20baa6-dc832b2219b96e2f70c570b6352c23e1-1764136069-1764125269
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="PassionXXX" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 2",PassionXXX
-https://moonlight.wideiptv.top/PassionXXX/index.fmp4.m3u8?token=98c63a02f0664593b84af375cc7a9abd854a7b87-ec05e7570038ef2296af6778e023c5e1-1764130030-1764119230
+https://moonlight.wideiptv.top/PassionXXX/index.fmp4.m3u8?token=830d31ffe87af15ebf6f26fd8362c99e99eef1f2-5732538eef0cf4ff914a033cc48c6a6b-1764136070-1764125270
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="HustlerTV" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 2",HustlerTV
-https://moonlight.wideiptv.top/HustlerTV/index.fmp4.m3u8?token=6498c961cf078d25182d8d986cd8cd502595b6bd-3c97ac96d64d27bef735a5d98bdac423-1764130031-1764119231
+https://moonlight.wideiptv.top/HustlerTV/index.fmp4.m3u8?token=7f98b01fa557e70cbd93a954b101a453f8c0a75b-10b92d8a0c3ff5981aeaa96190a6ebb8-1764136070-1764125270
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="EroX-XxX" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 2",EroX-XxX
-https://moonlight.wideiptv.top/EroX-XxX/index.fmp4.m3u8?token=1c2044a4410cd307d3b5e326387e42e87f8507d3-e554166ab51849782f523c61a35bd134-1764130031-1764119231
+https://moonlight.wideiptv.top/EroX-XxX/index.fmp4.m3u8?token=51e814a5842d132e6689c5581ca671e8068c450b-6fcbc754d74ddf28175c56708c2b3c9f-1764136071-1764125271
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="EroLuxeShemales" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 2",EroLuxeShemales
-https://moonlight.wideiptv.top/EroLuxeShemales/index.fmp4.m3u8?token=a264584ad968621e48f76905215f8312fc72f669-42a775780a688e12a84ce20df97f92f1-1764130032-1764119232
+https://moonlight.wideiptv.top/EroLuxeShemales/index.fmp4.m3u8?token=0e6cd6e40d0a1667fd95c020611373e487d90375-7c46ee93f019fcd8b1bbd686f30d8abd-1764136072-1764125272
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="DesireTV" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 2",DesireTV
-https://moonlight.wideiptv.top/DesireTV/index.fmp4.m3u8?token=dca44a7d65b1a7523d7966a7606ee29f90f51a6b-9fb86e1db4ee92128cbb46d3f18debc4-1764130033-1764119233
+https://moonlight.wideiptv.top/DesireTV/index.fmp4.m3u8?token=f03a726db5698fd36b2baf8970ec22a46b8b1d07-ac321381d4dd5a1c44e6e2f0a031c7a3-1764136073-1764125273
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="CentoXCento" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 2",CentoXCento
-https://moonlight.wideiptv.top/CentoXCento/index.fmp4.m3u8?token=368c5b0809984ec4372ba9ba23bccbe7623512e9-a51d4ba49124283ae125eef4673c0cb3-1764130033-1764119233
+https://moonlight.wideiptv.top/CentoXCento/index.fmp4.m3u8?token=3f9eef2ae1cbe0a211cee98fbc6cd69646a459b2-dd0c84f86877e509dff16a55f42ede56-1764136074-1764125274
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="Barely-Legal-TV" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 2",Barely-Legal-TV
-https://moonlight.wideiptv.top/Barely-Legal-TV/index.fmp4.m3u8?token=946f95f1c94293cf32a4d4632a92c0cd0cc516cc-e1974e7dd220b5d1cf20644a2ca89266-1764130034-1764119234
+https://moonlight.wideiptv.top/Barely-Legal-TV/index.fmp4.m3u8?token=be332d9897043f9c34a68adfa1af1a19dfb5953a-9531bfdae57ccc7204cebc0132d03657-1764136074-1764125274
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="Venus" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 2",Venus
-https://moonlight.wideiptv.top/Venus/index.fmp4.m3u8?token=a50dbd4fa4c0be0efe13478d34046e7ec8137075-4cfcc58e6b5dc1359f481c555774bb35-1764130036-1764119236
+https://moonlight.wideiptv.top/Venus/index.fmp4.m3u8?token=035f786778a6c5a879e641ee251982ade32a33f1-ec0912e3074e311926b4730d4a450502-1764136075-1764125275
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="BrazzersTVEU" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 3",BrazzersTVEU
-https://moonlight.wideiptv.top/BrazzersTVEU/index.fmp4.m3u8?token=c83549d709bb0dc089bcda3bc571b62ed008c454-65393b4f2d0ac50c9ab858ecde89fa9c-1764130037-1764119237
+https://moonlight.wideiptv.top/BrazzersTVEU/index.fmp4.m3u8?token=d7514e5a76d732f3d0e98b983f78fc5a76d979d0-e2bd877b497e51d3c3ac7d3054accfec-1764136075-1764125275
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="Tiny4k1" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 3",Tiny4k1
-https://moonlight.wideiptv.top/Tiny4k1/index.fmp4.m3u8?token=eb2a2793e90a0ca384a0f72ab13b21c0b33e75fc-dbb32626a36274bc856295a0f0b233e7-1764130038-1764119238
+https://moonlight.wideiptv.top/Tiny4k1/index.fmp4.m3u8?token=18a53cc5b858855d1542cd3e94efb61a195f872e-fe79ca6f82ae3899bc225fba9093c138-1764136076-1764125276
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="Tiny4k2" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 3",Tiny4k2
-https://moonlight.wideiptv.top/Tiny4k2/index.fmp4.m3u8?token=037baa0678b5cec46abc48b094244fe11701531b-8f1c52d405d3dc9025c301150e91d8fe-1764130039-1764119239
+https://moonlight.wideiptv.top/Tiny4k2/index.fmp4.m3u8?token=ba25e7ef332a6106ac92b086e3215d78c1fcd16a-3fb3facb3bdafaadd402ed01b678dce7-1764136078-1764125278
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="Tiny4k3" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 3",Tiny4k3
-https://moonlight.wideiptv.top/Tiny4k3/index.fmp4.m3u8?token=04bc606b7bfbbdf8b3e5af471ab772594e0982cd-d25a067ddefd84498e23cb805270352b-1764130040-1764119240
+https://moonlight.wideiptv.top/Tiny4k3/index.fmp4.m3u8?token=dd56c320ccf8cf5f3242f5aa91a125088f4cb0f4-94a91cac538710f9015746b5dd245548-1764136079-1764125279
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="PenthouseBLACK" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 3",PenthouseBLACK
-https://moonlight.wideiptv.top/PenthouseBLACK/index.fmp4.m3u8?token=c5642f621d9cf5e7c6115721e74b8fef0e0fa953-b0228dfc719f817e7715ebb4f4aa2a65-1764130040-1764119240
+https://moonlight.wideiptv.top/PenthouseBLACK/index.fmp4.m3u8?token=4bee3b2c54921edd0e4ea63a4f2ea51f859cd785-455388812ccee017b053b5edc5f0ec08-1764136080-1764125280
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="Penthouse" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 3",Penthouse
-https://moonlight.wideiptv.top/Penthouse/index.fmp4.m3u8?token=8338baf688d853e6c6598865fbcfa77637dd62c2-04bd712e672f6d94c044af177adf1afa-1764130041-1764119241
+https://moonlight.wideiptv.top/Penthouse/index.fmp4.m3u8?token=e523924efc70784054ba75f9b44ee733a464e1e6-d04e87ef19139c5d045c46764882f8b3-1764136080-1764125280
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="NuartTV" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 3",NuartTV
-https://moonlight.wideiptv.top/NuartTV/index.fmp4.m3u8?token=323f706dd9fefbfe62ad0b3ec804a1f376ac3eac-dc330b3021b5fddcee6c14b0a0e08cd4-1764130042-1764119242
+https://moonlight.wideiptv.top/NuartTV/index.fmp4.m3u8?token=b219d3937522e16a77e21aee70c59e2cf43ee2f6-64b6c22b3ebac63d210b6ca89ac1c3ef-1764136081-1764125281
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="Mofos" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 3",Mofos
-https://moonlight.wideiptv.top/Mofos/index.fmp4.m3u8?token=4e3c63e9c052134e0879db47f981faf1c31d2110-773cb884fa008fbb7b60ec56d7f92c13-1764130044-1764119244
+https://moonlight.wideiptv.top/Mofos/index.fmp4.m3u8?token=a44428a98e103754b763e461d70b46ae287f88f3-78b70df91eb06989de1cb8a7431b182b-1764136082-1764125282
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="cum4k" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 3",cum4k
-https://moonlight.wideiptv.top/cum4k/index.fmp4.m3u8?token=f423e3627d97d7e3fedb9a2d7c4136b22195affe-c8aecbd3d32610d63e39fc7cc05096d5-1764130045-1764119245
+https://moonlight.wideiptv.top/cum4k/index.fmp4.m3u8?token=4e813505d1ac9094b76e7eff2daa6411c95a68d9-368b9d492b8e8fbceb3fa5c37d87e933-1764136083-1764125283
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="ExxxoticaTV" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 3",ExxxoticaTV
-https://moonlight.wideiptv.top/ExxxoticaTV/index.fmp4.m3u8?token=33a606383f04eec097f22fb15f4877477bd0cb62-851ea8d38187b476ad01fdf8f6e5bbc1-1764130046-1764119246
+https://moonlight.wideiptv.top/ExxxoticaTV/index.fmp4.m3u8?token=e4bd3376a45a1a89894352b88e936ffb31def10e-d317f0b8fb6d918b9a3d1a5e23bfc8eb-1764136084-1764125284
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="LeoGoldTV" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 3",LeoGoldTV
-https://moonlight.wideiptv.top/LeoGoldTV/index.fmp4.m3u8?token=45cc5747c782eb14769a239711e1c490b1e8c93d-30a37f3eaab1f9919160a3b0603d8cdd-1764130047-1764119247
+https://moonlight.wideiptv.top/LeoGoldTV/index.fmp4.m3u8?token=c94ccb758d5e0b1afadd46ea89ec3c6da40bc5bd-1a9db67a01915891e774cff491c36c02-1764136085-1764125285
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="LeoTV" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 3",LeoTV
-https://moonlight.wideiptv.top/LeoTV/index.fmp4.m3u8?token=da6d2619315f17369ae76f68e30c38368b7aac0d-debd1e639b65eeb25c559acfb78a67c0-1764130048-1764119248
+https://moonlight.wideiptv.top/LeoTV/index.fmp4.m3u8?token=835ea7afe8ccb5927cb28849a8f00238788d41b8-6e403a96f8e584990d623cc69cfc4a85-1764136086-1764125286
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="EvilAngel" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 3",EvilAngel
-https://moonlight.wideiptv.top/EvilAngel/index.fmp4.m3u8?token=2be5bbb8897f388ec09b2b0eb283fb19b2bfb4f9-9332b45bbb25204a7998af43a8658b5e-1764130049-1764119249
+https://moonlight.wideiptv.top/EvilAngel/index.fmp4.m3u8?token=f78f522056251fb67e1a8462435f279fcd96ff21-fac901796dedd6ca8f6da1ed24c9d2fd-1764136087-1764125287
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="Extasy4K" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 3",Extasy4K
-https://moonlight.wideiptv.top/Extasy4K/index.fmp4.m3u8?token=4f43df87e064eb4d2d328d71879da3051291f4e5-6520c8119a15581ce909f86309590988-1764130049-1764119249
+https://moonlight.wideiptv.top/Extasy4K/index.fmp4.m3u8?token=40c7846c4f745d7c69853afa7c35362b734055a3-63afc71673de14bd5e66d1232f183a2c-1764136088-1764125288
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="VIXEN" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 3",VIXEN
-https://moonlight.wideiptv.top/VIXEN/index.fmp4.m3u8?token=3ce28c8198e220b38000809a4033dfacc4f801a5-bfd0b0039e18ec3e652c8fc455d64144-1764130050-1764119250
+https://moonlight.wideiptv.top/VIXEN/index.fmp4.m3u8?token=2d937983c15a243ccc958d9d26ce243f1de1e95c-f9d22fdfbb7c856f289c41e10f86454a-1764136088-1764125288
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="SeXation" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 3",SeXation
-https://moonlight.wideiptv.top/SeXation/index.fmp4.m3u8?token=be3d36fa24da08444aaed889399dfe7cecce941f-2359a619964a645d231f9faf366ac341-1764130051-1764119251
+https://moonlight.wideiptv.top/SeXation/index.fmp4.m3u8?token=59c1a45871ead73ca38cb2ec419d54482fc39dfc-ee63689b1344137d8b5b5ceb94393739-1764136089-1764125289
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="HustlerHD" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 3",HustlerHD
-https://moonlight.wideiptv.top/HustlerHD/index.fmp4.m3u8?token=f6534c160041d35d636f0343539d66fe0c6b48f2-88453bfc122a92883d8fd1675ca9c3dc-1764130051-1764119251
+https://moonlight.wideiptv.top/HustlerHD/index.fmp4.m3u8?token=b64ccfd343e175f5db4f0eda7425cd7bba4ccc53-3f3559a0b01ae96feeb09110cc466eb4-1764136090-1764125290
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="PinkoClubTV" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 3",PinkoClubTV
-https://moonlight.wideiptv.top/PinkoClubTV/index.fmp4.m3u8?token=65397477188dffd5478767e3f35cc5908ea925a5-a1dc2746a35ec26ab93c39e59525e41b-1764130052-1764119252
+https://moonlight.wideiptv.top/PinkoClubTV/index.fmp4.m3u8?token=e39075eb812a1123ce6162fbcc1b707ac57d7b0a-ba194a0d55bcf03a9b4db1e5a5369f61-1764136091-1764125291
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="Television-X" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 3",Television-X
-https://moonlight.wideiptv.top/Television-X/index.fmp4.m3u8?token=6fc1c6118251b9f8344b054f6789fb73417a61ed-506313771f799eee43c27ed530639f81-1764130053-1764119253
+https://moonlight.wideiptv.top/Television-X/index.fmp4.m3u8?token=a9f67817f0ebf37dd4a9d5354593390255c97c92-57c205f5472ed18143c2806b62d57283-1764136092-1764125292
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="Barely-Legal-TV" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 3",Barely-Legal-TV
-https://moonlight.wideiptv.top/Barely-Legal-TV/index.fmp4.m3u8?token=0da497db0bdbbc7fef4a36d1b89a7dd425be1817-a723a0df9976a2545f0cac7da4ffec25-1764130053-1764119253
+https://moonlight.wideiptv.top/Barely-Legal-TV/index.fmp4.m3u8?token=536e9ea457f0000664283de5845254ef05ea30b0-5d6dfd99c7f9fee62b6fdfc7d71125c3-1764136092-1764125292
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="EroLuxeShemales" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 3",EroLuxeShemales
-https://moonlight.wideiptv.top/EroLuxeShemales/index.fmp4.m3u8?token=24b34c2d0c7a66cebb52ef0f2840bc17d1b2ab99-d53911fb0079219df54b7d12523d1fc0-1764130054-1764119254
+https://moonlight.wideiptv.top/EroLuxeShemales/index.fmp4.m3u8?token=dce2cd5be2f87695c4ac748a9303b360a3fe4667-f22bf25826c36b6e66f634a331a92cbe-1764136093-1764125293
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="SecretCircleTV" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 3",SecretCircleTV
-https://moonlight.wideiptv.top/SecretCircleTV/index.fmp4.m3u8?token=0e202b886b1779fb6fca05bc1aee7394a76aff8e-7e0458733c2153d1f5dafddfece16546-1764130055-1764119255
+https://moonlight.wideiptv.top/SecretCircleTV/index.fmp4.m3u8?token=aa68d794fefc0ae6e3fe5ff20149362aad7ab754-675ef70b0775a2a7516823b7b3c7624a-1764136094-1764125294
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="Beate-Uhse" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 3",Beate-Uhse
-https://moonlight.wideiptv.top/Beate-Uhse/index.fmp4.m3u8?token=a534ee83dcd4ee348c5b97cf50060c1688634f0d-71b325674de320a5c035a816d9b51430-1764130056-1764119256
+https://moonlight.wideiptv.top/Beate-Uhse/index.fmp4.m3u8?token=534475865dd01c52a24f665cc288ec3bf8c94e2e-bb7bfb4819b3e30673b2b00c6d1d6bb1-1764136095-1764125295
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="RedlightHD" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 3",RedlightHD
-https://moonlight.wideiptv.top/RedlightHD/index.fmp4.m3u8?token=992d04d20642d5c22eb8749ae54d94ef3c2c7b7e-c3a04eaa29715ccd401571686c515a38-1764130056-1764119256
+https://moonlight.wideiptv.top/RedlightHD/index.fmp4.m3u8?token=7d6e0ba96c0cb0cb42ba2651367fe12fd9c90f5e-27cdd42656ce1a790e12cba993005528-1764136096-1764125296
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="DorcelTVAfrica" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 3",DorcelTVAfrica
-https://moonlight.wideiptv.top/DorcelTVAfrica/index.fmp4.m3u8?token=47d781d8f5f7b447a9e5ed3197bf3c621d8fe839-2c8dc999911936cf98258764be251e48-1764130060-1764119260
+https://moonlight.wideiptv.top/DorcelTVAfrica/index.fmp4.m3u8?token=1ac14fb0a6a5cd226f1eb52d81bb9500ffc98170-7005d8b9309ab63c2aa05e225b60fbe1-1764136097-1764125297
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="PlayboyTV" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 3",PlayboyTV
-https://moonlight.wideiptv.top/PlayboyTV/index.fmp4.m3u8?token=00fe0f414b0195601fd877fc7aee5f49e187e438-f5c1ca0c87f40dfc6dee82afd54eea2a-1764130061-1764119261
+https://moonlight.wideiptv.top/PlayboyTV/index.fmp4.m3u8?token=e91df076806f6307eefe9201423e9944431e743c-52908f8e4d41be2fbb8af609b621ae63-1764136098-1764125298
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="PenthouseGold" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 3",PenthouseGold
-https://moonlight.wideiptv.top/PenthouseGold/index.fmp4.m3u8?token=767087de94c61f203b99fe3ef4f7136b41b36788-4681b539131ebdd098335d5c8269f581-1764130062-1764119262
+https://moonlight.wideiptv.top/PenthouseGold/index.fmp4.m3u8?token=f1b7c82091610e01ea80c2e58ce91ca9f63964b6-91f80d7bd4c4a6a3cfde9eb692e6091d-1764136098-1764125298
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="Private" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 3",Private
-https://moonlight.wideiptv.top/Private/index.fmp4.m3u8?token=cd29472e921e7525276ffcc0e8cd5ca6a3893a31-12f5c9cc47f3697c0ed4923f9cd32ca3-1764130064-1764119264
+https://moonlight.wideiptv.top/Private/index.fmp4.m3u8?token=ac3a0c6f009df09cfbf77954ee0810cf4ecf1ebd-710240aebc35b73519692214f45ca443-1764136099-1764125299
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="HOTMan" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 3",HOTMan
-https://moonlight.wideiptv.top/HOTMan/index.fmp4.m3u8?token=0c145bbeeab3738fff3c6a4f7545e7674f53b3d4-23be0126e817ebd6e6bc658e64979ef7-1764130064-1764119264
+https://moonlight.wideiptv.top/HOTMan/index.fmp4.m3u8?token=81515f18da6454d8b8fa3acdbe8077943f57ccc3-562a39a4e1105e50572454f284bc5ea3-1764136100-1764125300
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="SexyHOT" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 3",SexyHOT
-https://moonlight.wideiptv.top/SexyHOT/index.fmp4.m3u8?token=94a400070b8a28ddaf090ef1d7d33fc4c0d3212d-2a3089a4a48cded771183227d89e71ed-1764130065-1764119265
+https://moonlight.wideiptv.top/SexyHOT/index.fmp4.m3u8?token=2f9fe9bc94df3042d6d498e9bdd26082cf637689-1b596984a0a5ef73ac144d20c38618f5-1764136101-1764125301
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="TransErotica" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 3",TransErotica
-https://moonlight.wideiptv.top/TransErotica/index.fmp4.m3u8?token=575b06c02214d1ac1e33d726094a958ee7911845-af6c8d7ac6350f1e1608c1899b2553a5-1764130066-1764119266
+https://moonlight.wideiptv.top/TransErotica/index.fmp4.m3u8?token=e91b234ab7110a3a12560c3a5057f64b3322a2f9-00fb22374521cf0335c01e09931b2129-1764136102-1764125302
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="HOTXXL" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 3",HOTXXL
-https://moonlight.wideiptv.top/HOTXXL/index.fmp4.m3u8?token=3782af53f5f36f197d7ea844145d905f28595294-64b7e184a328783aa2f0b24a0f2b5103-1764130066-1764119266
+https://moonlight.wideiptv.top/HOTXXL/index.fmp4.m3u8?token=23c07771b70772d526e717a806fdcbca220867ee-2a7ff63312922cc23bd613f38c0fe8b6-1764136103-1764125303
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="BODYSEX" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 3",BODYSEX
-https://moonlight.wideiptv.top/BODYSEX/index.fmp4.m3u8?token=1713e2beba3c9ca950a6dcb5f64afedbbe0f2c3a-1907c02704e7f56383ca243be5a6bd3e-1764130067-1764119267
+https://moonlight.wideiptv.top/BODYSEX/index.fmp4.m3u8?token=5d57639548f2be22cd84a0993269bedc60c154a9-dcae2b6173f7332d253c5fef6c131c94-1764136105-1764125305
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="HOT-HD" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 3",HOT-HD
-https://moonlight.wideiptv.top/HOT-HD/index.fmp4.m3u8?token=72fc00c9218a85189bcaab3e6036911492bb0ff3-b16212e8a2f4894298d031704ed37129-1764130068-1764119268
+https://moonlight.wideiptv.top/HOT-HD/index.fmp4.m3u8?token=ccec809cbd8b8bd8a85cd6cbe70570310694fbd6-01f9b97c76c90e33ef459a2593ca4f1d-1764136105-1764125305
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="DorcelTV" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 3",DorcelTV
-https://moonlight.wideiptv.top/DorcelTV/index.fmp4.m3u8?token=4400151a557f7b332646cb353b9f79a59310cedd-a0b31dcf42d72278c35cea1dcd3b763e-1764130069-1764119269
+https://moonlight.wideiptv.top/DorcelTV/index.fmp4.m3u8?token=9a42577c9cd31f5286f6812c2c24ff8d23490de7-47191458fd202a5f20ecbb725941cf9c-1764136106-1764125306
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="TransAngels" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 3",TransAngels
-https://moonlight.wideiptv.top/TransAngels/index.fmp4.m3u8?token=01c1fad6995a4c151143da1b74b008a40e0854c6-48c3d49c56009c2b075ccf09b6cc2745-1764130069-1764119269
+https://moonlight.wideiptv.top/TransAngels/index.fmp4.m3u8?token=5c351563b1073c7edee33462fa286bbe5baf886f-2a2ff2e9ffe1edbd1dc4aeeae0803d10-1764136107-1764125307
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="SuperONE" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 3",SuperONE
-https://moonlight.wideiptv.top/SuperONE/index.fmp4.m3u8?token=03adc8b953d949e34e61ea42f36ff917a1df12ae-5a48b936b582838c6c6e0bde794f6a31-1764130070-1764119270
+https://moonlight.wideiptv.top/SuperONE/index.fmp4.m3u8?token=2222dcad6ad1ba4526c5a9f34c5441b52e03bd8a-4c0975315e7e26458fae19eb95f45d4d-1764136108-1764125308
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="SextremeTV" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 3",SextremeTV
-https://moonlight.wideiptv.top/SextremeTV/index.fmp4.m3u8?token=7a50d96b7d4fa8d104262e0086df6f6cbda921fb-6b98cdff0ef502003c84263b3eaabbb5-1764130071-1764119271
+https://moonlight.wideiptv.top/SextremeTV/index.fmp4.m3u8?token=41617165158184f410f915d432a54299a716e7a0-845114dc6195672e866074528fa971d6-1764136109-1764125309
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="PassionXXX" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 3",PassionXXX
-https://moonlight.wideiptv.top/PassionXXX/index.fmp4.m3u8?token=cdbf8906c371e8c7d32ed405bf0afc5f291cd1dd-88940df304fed2d18b218d55f3dfacd2-1764130071-1764119271
+https://moonlight.wideiptv.top/PassionXXX/index.fmp4.m3u8?token=e8743f2cbe5ace59f495666fe8b74a6612f01bf0-61f121b78b1f8db938b9440efcb8d61e-1764136110-1764125310
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="HustlerTV" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 3",HustlerTV
-https://moonlight.wideiptv.top/HustlerTV/index.fmp4.m3u8?token=8bdbf615f3d67e49106bac67945326f38aaf15e1-ea38520ced8ad44705c1dae537ef41e7-1764130072-1764119272
+https://moonlight.wideiptv.top/HustlerTV/index.fmp4.m3u8?token=a5606bba33e18e2b1419ad70e1a6398f66d3ed1b-21d15fd5d3839b4f05bc828581448712-1764136111-1764125311
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="EroX-XxX" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 3",EroX-XxX
-https://moonlight.wideiptv.top/EroX-XxX/index.fmp4.m3u8?token=5cd459a2bb3dd8fa5deac40411a404f1c0b219a8-52591bfb1c0164a87bb71b1dda5a974d-1764130073-1764119273
+https://moonlight.wideiptv.top/EroX-XxX/index.fmp4.m3u8?token=70b338a656b8eaac5580aa428ecf1dd764856797-9bf0399014ee08485d95f9359278bcab-1764136112-1764125312
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="DesireTV" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 3",DesireTV
-https://moonlight.wideiptv.top/DesireTV/index.fmp4.m3u8?token=fdb2b7352b1e87312f4bce4877329aec1ef93451-c0c4469961de8809ca652e7bf48de01b-1764130074-1764119274
+https://moonlight.wideiptv.top/DesireTV/index.fmp4.m3u8?token=f925fed7e8fbda774c8d594dcdaf9582c803b135-9b334c1650646128e62d1515c31fd6fd-1764136113-1764125313
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="CentoXCento" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 3",CentoXCento
-https://moonlight.wideiptv.top/CentoXCento/index.fmp4.m3u8?token=6877afcdf0ae3fc1bd5f701fa3e30ad43241a1bd-af7fc63ca1319c8f64d216cbf7ccd801-1764130075-1764119275
+https://moonlight.wideiptv.top/CentoXCento/index.fmp4.m3u8?token=d7c9f9763cd298fcc0a8fd281069a9718d30c820-f845e13203ef3ff3d5c0049cfd5f553b-1764136114-1764125314
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="Venus" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 3",Venus
-https://moonlight.wideiptv.top/Venus/index.fmp4.m3u8?token=9308e80d09fa46c0cc85554e315ec9c1db794caf-09cd5493026ea9e80c463deaf87a8dcb-1764130075-1764119275
+https://moonlight.wideiptv.top/Venus/index.fmp4.m3u8?token=e271ec69753fd2c4bad9096566ea3abffa2f49b3-ce0a62f0e7362c1a800badd8c14f3b99-1764136114-1764125314
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="XXL" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 3",XXL
-https://moonlight.wideiptv.top/XXL/index.fmp4.m3u8?token=97cf3ffed31f6b88a8cc3a8714ae62d6f560f2c6-cf824e1a4b8cc83c8b76c99829864d02-1764130076-1764119276
+https://moonlight.wideiptv.top/XXL/index.fmp4.m3u8?token=996a29bb8d3874f2bc86881cc5e74553152ac01a-4a6409b45f68174ba24e59652e04e44c-1764136115-1764125315
