@@ -2,7 +2,7 @@
 #EXT-X-TVG-URL: https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz
 #EXTINF:-1 tvg-id="Blank.Dummy.us" group-title="注意事项",注意事项
 #注意事项
-#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/chb.png?raw=true" group-title="注意事项",20260428014610仅供测试自用如有侵权请通知
+#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/chb.png?raw=true" group-title="注意事项",20260429014904仅供测试自用如有侵权请通知
 http://rihou.cc:555/mp4?id=lndjll.mp4
 #EXTINF:-1 tvg-id="Blank.Dummy.us" group-title="綜合其他",綜合其他
 #綜合其他
@@ -102,8 +102,6 @@ https://clawcloud.goiptv.de5.net/litv.php?id=4gtv-4gtv070&token=xiatianshigou
 https://clawcloud.goiptv.de5.net/litv.php?id=4gtv-4gtv082&token=xiatianshigou
 #EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/chb.png?raw=true" group-title="音樂綜藝",CLASSICA
 https://clawcloud.goiptv.de5.net/litv.php?id=4gtv-4gtv059&token=xiatianshigou
-#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/chb.png?raw=true" group-title="音樂綜藝",Mezzo
-https://clawcloud.goiptv.de5.net/litv.php?id=4gtv-4gtv083&token=xiatianshigou
 #EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/chb.png?raw=true" group-title="音樂綜藝",豬哥亮歌廳秀
 https://clawcloud.goiptv.de5.net/litv.php?id=4gtv-4gtv006&token=xiatianshigou
 #EXTINF:-1 tvg-id="Blank.Dummy.us" group-title="生活旅遊",生活旅遊
@@ -172,8 +170,6 @@ https://clawcloud.goiptv.de5.net/litv.php?id=litv-xinchuang12&token=xiatianshigo
 https://clawcloud.goiptv.de5.net/litv.php?id=litv-fast1224&token=xiatianshigou
 #EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/chb.png?raw=true" group-title="電影戲劇",龍華戲劇台
 https://clawcloud.goiptv.de5.net/litv.php?id=litv-xinchuang18&token=xiatianshigou
-#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/chb.png?raw=true" group-title="電影戲劇",黃金八點檔
-https://clawcloud.goiptv.de5.net/litv.php?id=litv-fast1225&token=xiatianshigou
 #EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/chb.png?raw=true" group-title="電影戲劇",台灣戲劇台
 https://clawcloud.goiptv.de5.net/litv.php?id=litv-xinchuang22&token=xiatianshigou
 #EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/chb.png?raw=true" group-title="電影戲劇",龍華日韓台
